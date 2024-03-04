@@ -1,0 +1,555 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Albert",
+      "surnames": "Balbastre Morte",
+      "title": "Backend Software Developer +5 years | currently improving my understanding of devops practices",
+      "description": "I have over five years of experience in backend development, using languages such as PHP, Java, Python, Node.js, and more recently I switched to Go (Golang). I also have experience in SQL, MongoDB, Redis, Docker, Docker compose, REST APIs, DDD, hexagonal architecture, microservices, aws, cloud formation. I am now eager to learn more about modern solutions such as microservices in the cloud - queue brokers, AWS, Kubernetes, infrastructure-as-code and whatnot.\n\nI enjoy not just clicking code, but understanding the product, the company, the costumers and the company and the market. I proposed significant changes in the recent past while at Tipsterchat: from the purely technical ones such as setting comfortable documentation and a good testing environment for fellow developers, to actively getting feedback from out top users to understand their needs and desires, and how they could become a market opportunity, by proposing a webpage design with unique aspects that set us apart.\nWhen there is a good match between the company and me, I have punched above my weight in the past: as a junior in DoTravel (only a year in the market), I was tasked to come up with a new architecture that was usable by other juniors, due to the CTO correctly identifying that I am a coder that likes clarity and design.\n\nI am currently looking for opportunities where I can grow into more senior positions, including mentoring juniors, having more responsibilities and participating in greater decision making. In parallel, I'd like to know more about modern solutions such as infrastructure-as-code, cloud services, microservices and queues, as well as async golang and advanced architectures.\n\nAs a sidenote, I enjoy several non-programming hobbies and projects. I sign in a metal band and I am producing a documentary about domestic violence. I used to work in media as a sound engineer so I have some artistic sensibilities with a strong technical background.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/04/bcf4d727-fdf0-467c-8d41-4488bba32247_linkedin-photo-13328.linkedin-photo-13328",
+        "alt": "24/03/04/bcf4d727-fdf0-467c-8d41-4488bba32247_linkedin-photo-13328.linkedin-photo-13328"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJ5TCOcRaYpBIRCmZHTz37sEQ)",
+        "country": "España",
+        "region": "Cataluña",
+        "municipality": "Barcelona"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://linkedin.com/in/albertbalbastre"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Out of network connection"
+        },
+        "roles": [
+          {
+            "name": "Jérémy Hagneré",
+            "startDate": "2024-03-04",
+            "challenges": [
+              {
+                "description": "Jérémy Hagneré"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Out of network connection"
+        },
+        "roles": [
+          {
+            "name": "Sheldon Bromage",
+            "startDate": "2024-03-04",
+            "challenges": [
+              {
+                "description": "Sheldon Bromage"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Out of network connection"
+        },
+        "roles": [
+          {
+            "name": "Tobias Lindberg",
+            "startDate": "2024-03-04",
+            "challenges": [
+              {
+                "description": "Tobias Lindberg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Out of network connection"
+        },
+        "roles": [
+          {
+            "name": "Alex Vanyan",
+            "startDate": "2024-03-04",
+            "challenges": [
+              {
+                "description": "Alex Vanyan"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Out of network connection"
+        },
+        "roles": [
+          {
+            "name": "Emin Kerim Mısırlıoğlu",
+            "startDate": "2024-03-04",
+            "challenges": [
+              {
+                "description": "Emin Kerim Mısırlıoğlu"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Teneo.ai",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/04/d2ae518f-e4d6-486b-8641-14162721c952_linkedin-photo-13328.linkedin-photo-13328",
+            "alt": "24/03/04/d2ae518f-e4d6-486b-8641-14162721c952_linkedin-photo-13328.linkedin-photo-13328"
+          }
+        },
+        "roles": [
+          {
+            "name": "Back End Developer",
+            "startDate": "2023-11-01",
+            "finishDate": "2023-12-31",
+            "challenges": [
+              {
+                "description": "Two months projects in which I helped develop an API wrapper for AI services an deploy it to aws using cloud formation. It was a quick working mockup to show the feasability of the project to the company.\n\ndeployment (cloudformation and README) (non sensitive information): https://github.com/abalbastrem/cloudformation"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "TipsterChat",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/04/2630c8a2-b623-41aa-8461-de93ec2ae7ba_linkedin-photo-13328.linkedin-photo-13328",
+            "alt": "24/03/04/2630c8a2-b623-41aa-8461-de93ec2ae7ba_linkedin-photo-13328.linkedin-photo-13328"
+          }
+        },
+        "roles": [
+          {
+            "name": "Senior Backend Developer (golang)",
+            "startDate": "2023-01-01",
+            "finishDate": "2023-09-30",
+            "challenges": [
+              {
+                "description": "Startup with a backend stack of Go, with a friendly hexagonal architecture and no framework. Very involved in the company as a whole, and my managers value my incisive questions and constructive criticisms.\nHighlight: proposed having a working testing environment so developers could fully test their endpoints locally before pushing to prod or beta."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Chiliz",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/04/1f90447c-5848-45c4-ab89-d238055e2f8c_linkedin-photo-13328.linkedin-photo-13328",
+            "alt": "24/03/04/1f90447c-5848-45c4-ab89-d238055e2f8c_linkedin-photo-13328.linkedin-photo-13328"
+          }
+        },
+        "roles": [
+          {
+            "name": "Back End Developer",
+            "startDate": "2022-01-01",
+            "finishDate": "2022-06-30",
+            "challenges": [
+              {
+                "description": "Developing for wallet&payment mid sized services in Docker. Ticket-based, scrum workflow methodology for a company that markets sports-related crypto."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "The Rank Group plc",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/04/3a6d29e0-3b14-4806-9fda-e399788d00cd_linkedin-photo-13328.linkedin-photo-13328",
+            "alt": "24/03/04/3a6d29e0-3b14-4806-9fda-e399788d00cd_linkedin-photo-13328.linkedin-photo-13328"
+          }
+        },
+        "roles": [
+          {
+            "name": "Back End Developer",
+            "startDate": "2020-04-01",
+            "finishDate": "2022-01-31",
+            "challenges": [
+              {
+                "description": "Role: backend developer for an iGaming portal (casino, slots, bingo).\nHighlights: integrated two API-2-API projects in contact with external providers, from the first line to hotfixing in production."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "DOTRAVEL Ltd",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/04/662a9bfa-a3e2-4254-8811-52d85bbc7ac8_linkedin-photo-13328.linkedin-photo-13328",
+            "alt": "24/03/04/662a9bfa-a3e2-4254-8811-52d85bbc7ac8_linkedin-photo-13328.linkedin-photo-13328"
+          }
+        },
+        "roles": [
+          {
+            "name": "Back End Developer",
+            "startDate": "2018-09-01",
+            "finishDate": "2020-01-31",
+            "challenges": [
+              {
+                "description": "Fullstack developer with an inclination for backend and services.\n- Services: Golang services that extensively use external APIs\n- Frontend: HTML with smarty and JS\nHighlighted projects:\n• Designed a new architecture for a refactoring of all the codebase\n• Led a team of me and a frontend developer to create a whole new module for external affiliates within a deadline\n• Created an error reporting system"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Atrápalo",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/04/dfb4e2d1-c592-4e25-8810-fae634154b29_linkedin-photo-13328.linkedin-photo-13328",
+            "alt": "24/03/04/dfb4e2d1-c592-4e25-8810-fae634154b29_linkedin-photo-13328.linkedin-photo-13328"
+          }
+        },
+        "roles": [
+          {
+            "name": "Junior Software Developer",
+            "startDate": "2018-07-01",
+            "finishDate": "2018-09-30",
+            "challenges": [
+              {
+                "description": "Was part of a newly created team called Atrapalo University, where six junior profiles saw a project from beginning to end. // Fui parte del equipo Atrapalo University, donde seis perfiles junior completaron un proyecto de principio a fin.\nConcepts: Hexagonal architecture, Domain Driven Design, Clean Code.\nWorkflow: Scrum\nTechnologies: Redis, unit testing with coverage, Sass\nIDE: Jetbrains."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Escola del Treball de Barcelona"
+        },
+        "roles": [
+          {
+            "name": "Proyecto Final / Final Project",
+            "startDate": "2018-03-01",
+            "finishDate": "2018-05-31",
+            "challenges": [
+              {
+                "description": "*** SPA ***\nConcepto: moosic\nContexto: proyecto final de Desarrollo de Aplicaciones Web (CFGS)\nGit: https://github.com/abalbastrem/moosic\nRol: idea original, arquitecto, programador de servidor y ayuda al front-end.\nTecnologías utilitzadas: nodejs 8, go.js, librería randomColor para js\nDescripción: moosic es una plataforma de música en streaming donde una atractiva interfaz y\nuna base de datos SQL con una avalancha de datos permiten consumir música de una\nmanera divertida y novedosa.\n\n*** ENG ***\nConcept: moosic\nContext: Final project of Web Applications Development (CFGS)\nGit: https://github.com/abalbastrem/moosic\nRole: original concept, architect, server programmer and assisted front-end.\nUsed technologies: nodejs 8, go.js, randomColor library for js\nDescription: moosic is a music streaming platform where an attractive UI and a heavily\npopulated SQL database allows users to consume music in a new, exciting way."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Escola del Treball de Barcelona"
+        },
+        "roles": [
+          {
+            "name": "Prácticas / Student Internship",
+            "startDate": "2017-09-01",
+            "finishDate": "2018-03-31",
+            "challenges": [
+              {
+                "description": "*** SPA ***\nConcepto: Aplicación de gestión de fotografías\nContexto: proyecto de prácticas de Desarrollo de Aplicaciones Web (CFGS)\nTecnologías utilizadas: flask, python 3, docker\nDescripción: la Escola del Treball reestructura todas sus aplicaciones en un framework flask.\nA partir del esqueleto de otra aplicación ya hecha, creé una aplicación de gestión de fotografías del alumnado y el profesorado en docker.\n\n*** ENG ***\nConcept: Picture management application\nContext: Internship project of Web Applications Development (CFGS)\nUsed technologies: flask, python 3, docker\nDescription: Escola del Treball reestructured all their applications in a flask framework. Off the code of a finished application, I created a picture management application for the students and the teachers in docker."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "BBC",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/04/c3de2f94-e5c3-4cb0-8aee-fdc5cc25f7e8_linkedin-photo-13328.linkedin-photo-13328",
+            "alt": "24/03/04/c3de2f94-e5c3-4cb0-8aee-fdc5cc25f7e8_linkedin-photo-13328.linkedin-photo-13328"
+          }
+        },
+        "roles": [
+          {
+            "name": "Runner at BBC Bristol (Work Experience)",
+            "startDate": "2016-07-01",
+            "finishDate": "2016-07-31",
+            "challenges": [
+              {
+                "description": "Runner and researcher in Paul Martin's Street Auction for BBC One."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Its My Shout Productions Ltd",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/04/3ad64cc3-85a8-4507-a3b1-6349c99d17bc_linkedin-photo-13328.linkedin-photo-13328",
+            "alt": "24/03/04/3ad64cc3-85a8-4507-a3b1-6349c99d17bc_linkedin-photo-13328.linkedin-photo-13328"
+          }
+        },
+        "roles": [
+          {
+            "name": "Sound Trainee (Work Experience)",
+            "startDate": "2015-07-01",
+            "finishDate": "2015-08-31",
+            "challenges": [
+              {
+                "description": "***Best sound Trainee Nominee***\n\nSound assisting long running Welsh sound mixers Nigel Tidball and Brian Murrell for three short movies. Shot under heavy rain, in studios, with a large crew, sent audio to camera and monitored back; also minded overlapping dialogue and generally, recorded mindind post.\nShorts broadcasted by BBC Wales and S4C."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Various venues and theatre companies"
+        },
+        "roles": [
+          {
+            "name": "Freelance sound & lighting engineer",
+            "startDate": "2011-09-01",
+            "finishDate": "2014-09-30",
+            "challenges": [
+              {
+                "description": "Live sound and lighting engineer for companies like Central Saint Martins College of Art and Design, London Actors Group, Foxtrotter Theatre and events like Barcelona's patronal celebrations and Barcelona's El Grec. Did sound design for an epic greek play, including warfare backgrounds, monsters, thunderstorms and synth work; also lighting design and adaptation for Las Carmelas modern ballet and Foxtrotter Theatre. Occasionally, live lighting for live music gigs."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Consorci per a la Normalització Lingüística",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/04/850da95f-6cb3-44a9-a72f-330730d567b9_linkedin-photo-13328.linkedin-photo-13328",
+            "alt": "24/03/04/850da95f-6cb3-44a9-a72f-330730d567b9_linkedin-photo-13328.linkedin-photo-13328"
+          }
+        },
+        "roles": [
+          {
+            "name": "Content coordinator",
+            "startDate": "2011-01-01",
+            "finishDate": "2011-06-30",
+            "challenges": [
+              {
+                "description": "CNL had to create three educative books. Coordinated the content creators, the photographer and the graphic designer with an improved workflow: a digital, eco-friendly, agile and methodical approach to content management, keeping close track of constant updates while weekly reporting to my supervisor; additionally, looked for photographies on the Internet; sorted the copyright with their authors; recorded and edited audios; did some graphics to illustrate the books; the three books were successfully sent to press."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Radio Ciutat Vella"
+        },
+        "roles": [
+          {
+            "name": "Sound engineer",
+            "startDate": "2009-01-01",
+            "finishDate": "2010-12-31",
+            "challenges": [
+              {
+                "description": "In-house sound engineer of Ràdio Ciutat Vella.\nLive engineering for most of the programmes, that included cultural magazines, sports, cinema and comedy; ensured the correct functioning of all equipment; created bumpers and promos; general media management such as batch processing, batch renaming, managing backups & recordings;\nOn own initiative, launched the radio to the internet via a streaming service; assisted creating the official webpage; migrated from a VIVA system to a Sam Broadcaster one, optimizing the workflow and improving the sound quality."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Scanner FM"
+        },
+        "roles": [
+          {
+            "name": "Sound engineer",
+            "startDate": "2008-01-01",
+            "finishDate": "2009-01-01",
+            "challenges": [
+              {
+                "description": "Intern sound engineer and tech person of one of the most culturally modern and active radios in Spain. Directly responded to senior sound engineer. Created bumps, promos, separators and other sound entities for the different sections, programmes and clients using DAWs and mastering with wave editors like Adobe Audition; effectively managed different jobs with different deadlines and priorities at once while keeping a racord with my superiors; media management; FTP; remote desktop; on my own, learned backup solutions and PC fixing and proposed an improved audio chain. Attended cultural festivals like Primavera Sound, where I set up the radio equipment along with two more engineers; recorded or ensured a recording of live gigs; cleaned and edited interviews and ensured a constant streaming."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "www.albertbalbastre.com / Various production companies"
+        },
+        "roles": [
+          {
+            "name": "Freelance Sound recordist and Sound editor",
+            "startDate": "2008-01-01",
+            "finishDate": "2015-07-31",
+            "challenges": [
+              {
+                "description": "From 2008 to 2012, I was freelancing as a side job to all the following ones. Since 2012 to 2015, was a sound recordist and sound editor in exclusivity."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "CA",
+        "fullName": "Catalán / Valenciano",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Full professional proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Bash",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Docker",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Golang",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Capacidad de presentación",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pensamiento analítico",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visión crítica",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://linkedin.com/in/albertbalbastre",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "bulbastre@gmail.com"
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "C++",
+          "type": "technology"
+        },
+        {
+          "name": "Golang",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "Rust",
+          "type": "technology"
+        },
+        {
+          "name": "TensorFlow",
+          "type": "technology"
+        },
+        {
+          "name": "Unity3D",
+          "type": "technology"
+        }
+      ],
+      "discardedCompetences": [
+        {
+          "name": ".NET",
+          "type": "technology"
+        },
+        {
+          "name": "CRM",
+          "type": "technology"
+        },
+        {
+          "name": "JAVA",
+          "type": "technology"
+        },
+        {
+          "name": "PHP",
+          "type": "technology"
+        },
+        {
+          "name": "Symfony",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer",
+        "Data Analysis & BI"
+      ]
+    },
+    "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "Golang",
+        "type": "technology"
+      }
+    ],
+    "desiredJobDescription": "I'd like a job that gets me invested. The job where I thrived the most was a startup where I could get involved in planning, giving feedback, proposing ideas, be critical, learning new technologies as needed, understand the business and whatnot. I always had a certain affiliation for software architecture since I dislike messy code, and I was allowed to propose a simple software architecture for said company. In the mid-long run, it'd be great if I could integrate my two careers: audio and code. In the meanwhile, I'd like to expand my horizons and move past simple, formulaic backend for webpages.",
+    "goodPractices": "I like my code to be clean and clear, so other developers can iterate on that easily. When the task is ample and I am given room to work, I can draft up different architectural solutions that may require some refactoring. So if my proposals can be complex, I run them with my senior to see if they're viable."
+  }
+}
