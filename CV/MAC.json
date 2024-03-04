@@ -32,86 +32,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Out of network connection"
-        },
-        "roles": [
-          {
-            "name": "Jérémy Hagneré",
-            "startDate": "2024-03-04",
-            "challenges": [
-              {
-                "description": "Jérémy Hagneré"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Out of network connection"
-        },
-        "roles": [
-          {
-            "name": "Sheldon Bromage",
-            "startDate": "2024-03-04",
-            "challenges": [
-              {
-                "description": "Sheldon Bromage"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Out of network connection"
-        },
-        "roles": [
-          {
-            "name": "Tobias Lindberg",
-            "startDate": "2024-03-04",
-            "challenges": [
-              {
-                "description": "Tobias Lindberg"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Out of network connection"
-        },
-        "roles": [
-          {
-            "name": "Alex Vanyan",
-            "startDate": "2024-03-04",
-            "challenges": [
-              {
-                "description": "Alex Vanyan"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Out of network connection"
-        },
-        "roles": [
-          {
-            "name": "Emin Kerim Mısırlıoğlu",
-            "startDate": "2024-03-04",
-            "challenges": [
-              {
-                "description": "Emin Kerim Mısırlıoğlu"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Teneo.ai",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/04/d2ae518f-e4d6-486b-8641-14162721c952_linkedin-photo-13328.linkedin-photo-13328",
@@ -407,7 +327,7 @@
     "languages": [
       {
         "name": "CA",
-        "fullName": "Catalán / Valenciano",
+        "fullName": "Catalán",
         "level": "Native or bilingual proficiency"
       },
       {
@@ -483,15 +403,11 @@
         }
       ],
       "contactMails": [
-        "bulbastre@gmail.com"
+        "albert.balbastre@gmail.com"
       ]
     },
     "preferences": {
       "preferredCompetences": [
-        {
-          "name": "C++",
-          "type": "technology"
-        },
         {
           "name": "Golang",
           "type": "technology"
@@ -501,43 +417,15 @@
           "type": "technology"
         },
         {
-          "name": "Rust",
+          "name": "Java",
           "type": "technology"
         },
-        {
-          "name": "TensorFlow",
-          "type": "technology"
-        },
-        {
-          "name": "Unity3D",
-          "type": "technology"
-        }
       ],
       "discardedCompetences": [
-        {
-          "name": ".NET",
-          "type": "technology"
-        },
-        {
-          "name": "CRM",
-          "type": "technology"
-        },
-        {
-          "name": "JAVA",
-          "type": "technology"
-        },
-        {
-          "name": "PHP",
-          "type": "technology"
-        },
-        {
-          "name": "Symfony",
-          "type": "technology"
-        }
       ],
       "preferredRoles": [
         "Backend Developer",
-        "Data Analysis & BI"
+        "Backend Engineer"
       ]
     },
     "status": "searchingActively"
@@ -549,7 +437,7 @@
         "type": "technology"
       }
     ],
-    "desiredJobDescription": "I'd like a job that gets me invested. The job where I thrived the most was a startup where I could get involved in planning, giving feedback, proposing ideas, be critical, learning new technologies as needed, understand the business and whatnot. I always had a certain affiliation for software architecture since I dislike messy code, and I was allowed to propose a simple software architecture for said company. In the mid-long run, it'd be great if I could integrate my two careers: audio and code. In the meanwhile, I'd like to expand my horizons and move past simple, formulaic backend for webpages.",
-    "goodPractices": "I like my code to be clean and clear, so other developers can iterate on that easily. When the task is ample and I am given room to work, I can draft up different architectural solutions that may require some refactoring. So if my proposals can be complex, I run them with my senior to see if they're viable."
+    "desiredJobDescription": "I'd like a job that gets me invested. The job where I thrived the most was a startup where I could get involved in planning, giving feedback, proposing ideas, be critical, learning new technologies as needed, understand the business and whatnot. I always had a certain affiliation for software architecture since I dislike messy code, and I was allowed to propose a simple software architecture for said company.",
+    "goodPractices": "I like my code to be clean and clear. I tend to code thinking of the next person that will come around."
   }
 }
