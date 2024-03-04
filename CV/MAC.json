@@ -389,6 +389,37 @@
         }
       }
     ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Tecnico Superior en Desarrollo de Aplicaciones Web",
+        "startDate": "2016-09-01",
+        "institution": {
+          "name": "Escola del Treball",
+          "description": "FP superior en l'Escola del Treball."
+        },
+        "finishDate": "2018-06-01",
+        "linkedCompetences": [
+          {
+            "name": "HTML",
+            "type": "technology"
+          },
+          {
+            "name": "JAVA",
+            "type": "technology"
+          },
+          {
+            "name": "PHP",
+            "type": "technology"
+          },
+          {
+            "name": "SQL",
+            "type": "technology"
+          }
+        ]
+      }
+    ],
     "softSkills": [
       {
         "skill": {
