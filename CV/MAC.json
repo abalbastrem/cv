@@ -506,6 +506,6 @@
       }
     ],
     "desiredJobDescription": "I'd like a job that gets me invested. The job where I thrived the most was a startup where I could get involved in planning, giving feedback, proposing ideas, be critical, learning new technologies as needed, understand the business and whatnot. I always had a certain affiliation for software architecture since I dislike messy code, and I was allowed to propose a simple software architecture for said company. In the mid-long run, it'd be great if I could integrate my two careers: audio and code. In the meanwhile, I'd like to expand my horizons and move past simple, formulaic backend for webpages.",
-    "goodPractices": "I like my code to be clean and clear, so other developers can iterate on that easily. When the task is ample and I am given room to work, I can draft up different architectural solutions that may require some refactoring. So if my proposals can be complex, I run them with my senior to see if they're viable."
+    "goodPractices": "I like my code to be clean and clear, so other developers can iterate on that easily. I worked with TDD, SOLID principles, Clean Code and documentation."
   }
 }
