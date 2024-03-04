@@ -36,22 +36,6 @@
     "jobs": [
       {
         "organization": {
-          "name": "Out of network connection"
-        },
-        "roles": [
-          {
-            "name": "Jérémy Hagneré",
-            "startDate": "2024-03-04",
-            "challenges": [
-              {
-                "description": "Jérémy Hagneré"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
           "name": "Teneo.ai",
           "image": {
             "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/24/03/04/d2ae518f-e4d6-486b-8641-14162721c952_linkedin-photo-13328.linkedin-photo-13328",
