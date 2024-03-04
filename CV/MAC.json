@@ -366,6 +366,12 @@
       },
       {
         "skill": {
+          "name": "JAVA",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
           "name": "Linux",
           "type": "technology"
         }
@@ -373,6 +379,12 @@
       {
         "skill": {
           "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
           "type": "technology"
         }
       }
@@ -474,6 +486,22 @@
     "mainStackTechs": [
       {
         "name": "Golang",
+        "type": "technology"
+      },
+      {
+        "name": "JAVA",
+        "type": "technology"
+      },
+      {
+        "name": "Linux",
+        "type": "technology"
+      },
+      {
+        "name": "Python",
+        "type": "technology"
+      },
+      {
+        "name": "SQL",
         "type": "technology"
       }
     ],
