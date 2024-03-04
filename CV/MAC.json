@@ -393,6 +393,17 @@
       {
         "studyType": "officialDegree",
         "degreeAchieved": true,
+        "name": "Grado en Comunicacion",
+        "startDate": "2009-09-01",
+        "institution": {
+          "name": "Universitat Oberta de Catalunya",
+          "description": "Grado en Comunicacion impartido por la Universitat Oberta de Catalunya."
+        },
+        "finishDate": "2016-06-01"
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
         "name": "Tecnico Superior en Desarrollo de Aplicaciones Web",
         "startDate": "2016-09-01",
         "institution": {
